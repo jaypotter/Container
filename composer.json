@@ -5,7 +5,8 @@
     "require": {
         "php": "^8.3",
         "psr/container": "2.0.x-dev",
-        "potter/cloneable": "dev-main"
+        "potter/cloneable": "dev-main",
+        "potter/aware": "dev-main"
     },
     "license": "MIT",
     "autoload": {
