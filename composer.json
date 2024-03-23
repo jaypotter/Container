@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "php": "^8.3",
-        "potter/aware": "dev-main",
+        "potter/aware-interface": "dev-main",
         "potter/cloneable": "dev-main",
         "potter/container-interface": "dev-main",
         "potter/container-trait": "dev-main",
