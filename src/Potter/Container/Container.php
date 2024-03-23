@@ -4,12 +4,13 @@ declare(strict_types=1);
 
 namespace Potter\Container;
 
+use \Potter\Aware\AwareInterface;
 use \Potter\Cloneable\{
     CloneableInterface,
     CloneableTrait
 };
 
-final class Container extends AbstractContainer implements CloneableInterface
+final class Container extends AbstractContainer implements AwareInterface, CloneableInterface
 {
     use CloneableTrait, ContainerTrait, StaticContainerTrait;
     
