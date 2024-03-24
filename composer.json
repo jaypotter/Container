@@ -8,6 +8,7 @@
         "potter/cloneable": "dev-main",
         "potter/container-interface": "dev-main",
         "potter/container-trait": "dev-main",
+        "potter/container-aware": "dev-main",
         "psr/container": "2.0.x-dev"
     },
     "license": "MIT",
