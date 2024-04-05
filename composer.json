@@ -4,12 +4,12 @@
     "type": "library",
     "require": {
         "php": "^8.3",
-        "potter/aware-interface": "dev-main",
-        "potter/cloneable": "dev-main",
-        "potter/container-interface": "dev-main",
-        "potter/container-trait": "dev-main",
-        "potter/container-aware": "dev-main",
-        "psr/container": "2.0.x-dev"
+        "potter/aware-interface": "v0.0.1-alpha@alpha",
+        "potter/cloneable": "v0.0.1-alpha@alpha",
+        "potter/container-interfaces": "v0.0.1-alpha@alpha",
+        "potter/container-traits": "v0.0.1-alpha@alpha",
+        "potter/container-aware": "v0.0.1-alpha@alpha",
+        "psr/container": "^2.0"
     },
     "suggest": {
         "potter/components": "dev-main",
@@ -27,5 +27,5 @@
             "email": "j@ypotter.ca"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "alpha"
 }
