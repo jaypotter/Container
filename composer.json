@@ -1,0 +1,21 @@
+{
+    "name": "potter/container",
+    "description": "PHP PSR-11 Container Implementation",
+    "type": "library",
+    "require": {
+        "php": ">=8.0.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Potter\\Container\\": "src/Potter/Container/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jay Potter",
+            "email": "j@ypotter.ca"
+        }
+    ],
+    "minimum-stability": "stable"
+}
