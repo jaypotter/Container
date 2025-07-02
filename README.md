@@ -1,6 +1,6 @@
 # PHP PSR-11 Container Implementation
-*Extends [Illuminate\Container\Container](https://github.com/illuminate/container/blob/master/Container.php)*
+*Extends [League\Container\Container](https://github.com/thephpleague/container/blob/5.x/src/Container.php)*
 
-*Implements [Illuminate\Contracts\Container\Container](https://github.com/illuminate/contracts/blob/master/Container/Container.php) and [Psr\Container\ContainerInterface](https://github.com/php-fig/container/blob/master/src/ContainerInterface.php)*
+*Implements [Psr\Container\ContainerInterface](https://github.com/php-fig/container/blob/master/src/ContainerInterface.php) and [League\Container\DefinitionContainerInterface\(https://github.com/thephpleague/container/blob/5.x/src/DefinitionContainerInterface.php)*
 
 `{ }`
