@@ -5,6 +5,6 @@ declare(strict_types=1);
 namespace Potter\Container;
 
 abstract class AbstractContainer 
-    extends \Illuminate\Container\Container
+    extends \League\Container\Container
     implements ContainerInterface
 { }
