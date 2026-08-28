@@ -15,6 +15,9 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": "^8.5.9"
+        "league/container": "^5.2.0",
+        "php": "^8.5.9",
+        "psr/container": "^2.0.2",
+        "psr/event-dispatcher": "^1.0.0"
     }
 }
