@@ -13,6 +13,7 @@
             "email": "j@ypotter.ca"
         }
     ],
+    "homepage": "https://github.com/jaypotter/Container",
     "minimum-stability": "stable",
     "provide": {
         "psr/container-implementation": "^1.0"
