@@ -1,0 +1,20 @@
+{
+    "name": "potter/container",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Potter\\": "src/Potter/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jay Potter",
+            "email": "j@ypotter.ca"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.5.9"
+    }
+}
